@@ -4,7 +4,7 @@
 **abdullahbasaran/abdullahbasaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ## Hi there, I'm Abdullah 👋
 
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ### Preferred Working Environment
 
-[<img align="left" alt="Visual Studio Code" width="36px" src="images/vscode.png" />][vscode]
-[<img align="left" alt="oh my zsh" height="36px" src="images/OMZLogo_BnW.png" />][ohmyzsh]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/vscode.png" />][vscode]
+[<img align="left" alt="oh my zsh" height="36px" src="https://github.com/danmanners/danmanners/raw/master/images/OMZLogo_BnW.png" />][ohmyzsh]
 
 <br />
 <br />
@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 ### Cloud Experience
 
-[<img align="left" alt="AWS" width="52px" src="images/aws.png" />][aws]
-[<img align="left" alt="Google Cloud" width="48" src="images/google-cloud.png" />][gcloud]
-[<img align="left" alt="Azure" width="48" src="images/azure.png" />][azure]
-[<img align="left" alt="Digital Ocean" width="52px" src="images/digitalocean.png" />][do]
+[<img align="left" alt="AWS" width="52px" src="https://github.com/danmanners/danmanners/raw/master/images/aws.png" />][aws]
+[<img align="left" alt="Google Cloud" width="48" src="https://github.com/danmanners/danmanners/raw/master/images/google-cloud.png" />][gcloud]
+[<img align="left" alt="Azure" width="48" src="https://github.com/danmanners/danmanners/raw/master/images/azure.png" />][azure]
+[<img align="left" alt="Digital Ocean" width="52px" src="https://github.com/danmanners/danmanners/raw/master/images/digitalocean.png" />][do]
 
 <br />
 <br />
@@ -49,13 +49,13 @@ Here are some ideas to get you started:
 
 ### DevSecOps Tooling
 
-[<img align="left" alt="Ansible" width="36px" src="images/ansible.webp" />][ansible]
-[<img align="left" alt="Puppet Bolt" width="36px" src="images/puppetbolt.png" />][bolt]
+[<img align="left" alt="Ansible" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/ansible.webp" />][ansible]
+[<img align="left" alt="Puppet Bolt" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/puppetbolt.png" />][bolt]
 [<img align="left" alt="Terraform" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/terraform.png" />][terraform]
-[<img align="left" alt="Kubernetes" width="36px" src="images/kubernetes.png" />][k8s]
-[<img align="left" alt="Docker" width="36px" src="images/docker.png" />][docker]
-[<img align="left" alt="Podman" width="36px" src="images/podman.png" />][podman]
-[<img align="left" alt="Buildah" width="36px" src="images/buildah.png" />][buildah]
+[<img align="left" alt="Kubernetes" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/kubernetes.png" />][k8s]
+[<img align="left" alt="Docker" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/docker.png" />][docker]
+[<img align="left" alt="Podman" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/podman.png" />][podman]
+[<img align="left" alt="Buildah" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/buildah.png" />][buildah]
 
 <br />
 <br />
@@ -119,7 +119,6 @@ Here are some ideas to get you started:
 
 ---
 
-###### Want your own personalized Github Readme? [codeSTACKr has an excellent YouTube video tutorial here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) which will help get you started!
 
 <!-- Personal Information -->
 #[website]:  https://danmanners.com
