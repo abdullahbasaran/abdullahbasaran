@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Ansible" width="36px" src="images/ansible.webp" />][ansible]
 [<img align="left" alt="Puppet Bolt" width="36px" src="images/puppetbolt.png" />][bolt]
-[<img align="left" alt="Terraform" width="36px" src="images/terraform.png" />][terraform]
+[<img align="left" alt="Terraform" width="36px" src="[images/terraform.png](https://github.com/danmanners/danmanners/raw/master/images/terraform.png)" />][terraform]
 [<img align="left" alt="Kubernetes" width="36px" src="images/kubernetes.png" />][k8s]
 [<img align="left" alt="Docker" width="36px" src="images/docker.png" />][docker]
 [<img align="left" alt="Podman" width="36px" src="images/podman.png" />][podman]
