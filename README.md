@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[<img align="left" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
+[<img align="left" height="36px" src="https://kariyermerkezi.boun.edu.tr/sites/kariyer.boun.edu.tr/files/600px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" height="36px" src="https://github.com/danmanners/danmanners/raw/master/images/gmail.png" />][email]
 
 <br />
