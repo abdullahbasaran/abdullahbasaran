@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 
 
 <!-- Personal Information -->
-#[website]:  https://
+<!--[website]:  https://  -->
 [linkedin]: https://www.linkedin.com/in/abdullah8/
 [email]:    mailto:abdullah.basaran8@gmail.com
 
