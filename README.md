@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-## Hello, I'm Abdullah 👋
+## Hi there, I'm Abdullah 👋
 
-[![Website](https://img.shields.io/website?label=danmanners.com&style=for-the-badge&url=https%3A%2F%2Fdanmanners.com)](https://danmanners.com)
 
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahbasaran&show_icons=true&theme=tokyonight)
 
