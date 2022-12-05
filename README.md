@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ### Cloud Experience
 
+[<img align="left" alt="OCI" width="52px" src="https://flexware.mx/wp-content/uploads/2022/05/Oracle_Corporation_logo.svg-e1655759978758-300x188.png" />][oci]
 [<img align="left" alt="AWS" width="52px" src="https://github.com/danmanners/danmanners/raw/master/images/aws.png" />][aws]
 [<img align="left" alt="Google Cloud" width="48" src="https://github.com/danmanners/danmanners/raw/master/images/google-cloud.png" />][gcloud]
 [<img align="left" alt="Azure" width="48" src="https://github.com/danmanners/danmanners/raw/master/images/azure.png" />][azure]
@@ -63,8 +64,8 @@ Here are some ideas to get you started:
 
 ### Languages (Primary)
 
-[<img align="left" alt="Bash" width="32px" src="images/bash.png" />][bash]
-[<img align="left" alt="Python" width="36px" src="images/python.png" />][python]
+[<img align="left" alt="Bash" width="32px" src="https://github.com/danmanners/danmanners/raw/master/images/bash.png" />][bash]
+[<img align="left" alt="Python" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/python.png" />][python]
 
 <br />
 <br />
@@ -72,8 +73,8 @@ Here are some ideas to get you started:
 
 ### Languages (Secondary)
 
-[<img align="left" alt="Golang" width="36px" src="images/golang.png" />][golang]
-[<img align="left" alt="Ruby" width="36px" src="images/header-ruby-logo.png" />][ruby]
+[<img align="left" alt="Golang" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/golang.png" />][golang]
+[<img align="left" alt="Ruby" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/header-ruby-logo.png" />][ruby]
 
 <br />
 <br />
@@ -81,17 +82,17 @@ Here are some ideas to get you started:
 
 ### Applications and Services
 
-[<img align="left" alt="LibreNMS" width="36px" src="images/librenms.png" />][librenms]
-[<img align="left" alt="FreeIPA" width="36px" src="images/freeipa.png" />][freeipa]
-[<img align="left" alt="Hashicorp Vault" width="36px" src="images/vault.png" />][vault]
-[<img align="left" alt="GitHub" width="36px" src="images/github.png" />][github]
-[<img align="left" alt="GitLab" width="36px" src="images/gitlab.png" />][gitlab]
-[<img align="left" alt="Rocket.Chat" width="36px" src="images/rocketchat.png" />][rc]
-[<img align="left" alt="Atlassian Tools " width="36px" src="images/atlassian.png" />][atlassian]
-[<img align="left" alt="Jenkins" width="36px" src="images/jenkins.png" />][jenkins]
-[<img align="left" alt="Sonarqube" width="36px" src="images/picto.svg" />][sonarqube]
-[<img align="left" alt="Nexus OSS" width="36px" src="images/NexusRepo_Icon.png" />][nexus-oss]
-[<img align="left" alt="Artifactory" height="44px" src="images/jfrogarti.png" />][artifactory]
+[<img align="left" alt="LibreNMS" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/librenms.png" />][librenms]
+[<img align="left" alt="FreeIPA" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/freeipa.png" />][freeipa]
+[<img align="left" alt="Hashicorp Vault" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/vault.png" />][vault]
+[<img align="left" alt="GitHub" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/github.png" />][github]
+[<img align="left" alt="GitLab" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/gitlab.png" />][gitlab]
+[<img align="left" alt="Rocket.Chat" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/rocketchat.png" />][rc]
+[<img align="left" alt="Atlassian Tools " width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/atlassian.png" />][atlassian]
+[<img align="left" alt="Jenkins" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/jenkins.png" />][jenkins]
+[<img align="left" alt="Sonarqube" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/picto.svg" />][sonarqube]
+[<img align="left" alt="Nexus OSS" width="36px" src="https://github.com/danmanners/danmanners/raw/master/images/NexusRepo_Icon.png" />][nexus-oss]
+[<img align="left" alt="Artifactory" height="44px" src="https://github.com/danmanners/danmanners/raw/master/images/jfrogarti.png" />][artifactory]
 
 <br />
 <br />
@@ -101,9 +102,9 @@ Here are some ideas to get you started:
 
 ### Baremetal Hypervisors
 
-[<img align="left" alt="Proxmox" height="40px" src="images/proxmox.png" />][proxmox]
-[<img align="left" alt="VMWare" height="36px" src="images/vmware.png" />][esxi]
-[<img align="left" alt="oVirt" height="36px" src="images/ovirt-icon-256.png" />][ovirt]
+[<img align="left" alt="Proxmox" height="40px" src="https://github.com/danmanners/danmanners/raw/master/images/proxmox.png" />][proxmox]
+[<img align="left" alt="VMWare" height="36px" src="https://github.com/danmanners/danmanners/raw/master/images/vmware.png" />][esxi]
+[<img align="left" alt="oVirt" height="36px" src="https://github.com/danmanners/danmanners/raw/master/images/ovirt-icon-256.png" />][ovirt]
 
 <br />
 <br />
@@ -112,7 +113,7 @@ Here are some ideas to get you started:
 ### Connect with me
 
 [<img align="left" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
-[<img align="left" height="36px" src="images/gmail.png" />][email]
+[<img align="left" height="36px" src="https://github.com/danmanners/danmanners/raw/master/images/gmail.png" />][email]
 
 <br />
 <br />
@@ -121,9 +122,9 @@ Here are some ideas to get you started:
 
 
 <!-- Personal Information -->
-#[website]:  https://danmanners.com
+#[website]:  https://
 [linkedin]: https://www.linkedin.com/in/abdullah8/
-[email]:    mailto:daniel.a.manners@gmail.com
+[email]:    mailto:abdullah.basaran8@gmail.com
 
 <!-- Preferred Tools -->
 [vscode]:   https://code.visualstudio.com
@@ -139,6 +140,7 @@ Here are some ideas to get you started:
 [buildah]:      https://buildah.io/
 
 <!-- Cloud Providers -->
+[oci]:    https://www.oracle.com/cloud/
 [aws]:    https://aws.amazon.com/
 [gcloud]: https://cloud.google.com/
 [azure]:  https://azure.microsoft.com/en-us/
